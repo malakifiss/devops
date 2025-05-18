@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\malak\\source\\repos\\projet1er\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1FE892-D729-4C10-915D-EC7D510C04A2}|projet1er\\projet1er.csproj|c:\\users\\malak\\source\\repos\\projet1er\\projet1er\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C1FE892-D729-4C10-915D-EC7D510C04A2}|projet1er\\projet1er.csproj|solutionrelative:projet1er\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1FE892-D729-4C10-915D-EC7D510C04A2}|projet1er\\projet1er.csproj|c:\\users\\malak\\source\\repos\\projet1er\\projet1er\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C1FE892-D729-4C10-915D-EC7D510C04A2}|projet1er\\projet1er.csproj|solutionrelative:projet1er\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1FE892-D729-4C10-915D-EC7D510C04A2}|projet1er\\projet1er.csproj|c:\\users\\malak\\source\\repos\\projet1er\\projet1er\\views\\produit\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C1FE892-D729-4C10-915D-EC7D510C04A2}|projet1er\\projet1er.csproj|solutionrelative:projet1er\\views\\produit\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1FE892-D729-4C10-915D-EC7D510C04A2}|projet1er\\projet1er.csproj|c:\\users\\malak\\source\\repos\\projet1er\\projet1er\\views\\produit\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C1FE892-D729-4C10-915D-EC7D510C04A2}|projet1er\\projet1er.csproj|solutionrelative:projet1er\\views\\produit\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1FE892-D729-4C10-915D-EC7D510C04A2}|projet1er\\projet1er.csproj|c:\\users\\malak\\source\\repos\\projet1er\\projet1er\\views\\produit\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C1FE892-D729-4C10-915D-EC7D510C04A2}|projet1er\\projet1er.csproj|solutionrelative:projet1er\\views\\produit\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1FE892-D729-4C10-915D-EC7D510C04A2}|projet1er\\projet1er.csproj|c:\\users\\malak\\source\\repos\\projet1er\\projet1er\\views\\produit\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C1FE892-D729-4C10-915D-EC7D510C04A2}|projet1er\\projet1er.csproj|solutionrelative:projet1er\\views\\produit\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1FE892-D729-4C10-915D-EC7D510C04A2}|projet1er\\projet1er.csproj|c:\\users\\malak\\source\\repos\\projet1er\\projet1er\\views\\produit\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C1FE892-D729-4C10-915D-EC7D510C04A2}|projet1er\\projet1er.csproj|solutionrelative:projet1er\\views\\produit\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1FE892-D729-4C10-915D-EC7D510C04A2}|projet1er\\projet1er.csproj|c:\\users\\malak\\source\\repos\\projet1er\\projet1er\\controllers\\produitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1FE892-D729-4C10-915D-EC7D510C04A2}|projet1er\\projet1er.csproj|solutionrelative:projet1er\\controllers\\produitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1FE892-D729-4C10-915D-EC7D510C04A2}|projet1er\\projet1er.csproj|c:\\users\\malak\\source\\repos\\projet1er\\projet1er\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1FE892-D729-4C10-915D-EC7D510C04A2}|projet1er\\projet1er.csproj|solutionrelative:projet1er\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1FE892-D729-4C10-915D-EC7D510C04A2}|projet1er\\projet1er.csproj|c:\\users\\malak\\source\\repos\\projet1er\\projet1er\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C1FE892-D729-4C10-915D-EC7D510C04A2}|projet1er\\projet1er.csproj|solutionrelative:projet1er\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1FE892-D729-4C10-915D-EC7D510C04A2}|projet1er\\projet1er.csproj|c:\\users\\malak\\source\\repos\\projet1er\\projet1er\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1FE892-D729-4C10-915D-EC7D510C04A2}|projet1er\\projet1er.csproj|solutionrelative:projet1er\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1FE892-D729-4C10-915D-EC7D510C04A2}|projet1er\\projet1er.csproj|c:\\users\\malak\\source\\repos\\projet1er\\projet1er\\models\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1FE892-D729-4C10-915D-EC7D510C04A2}|projet1er\\projet1er.csproj|solutionrelative:projet1er\\models\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1FE892-D729-4C10-915D-EC7D510C04A2}|projet1er\\projet1er.csproj|c:\\users\\malak\\source\\repos\\projet1er\\projet1er\\models\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1FE892-D729-4C10-915D-EC7D510C04A2}|projet1er\\projet1er.csproj|solutionrelative:projet1er\\models\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1FE892-D729-4C10-915D-EC7D510C04A2}|projet1er\\projet1er.csproj|c:\\users\\malak\\source\\repos\\projet1er\\projet1er\\migrations\\20250120215956_malak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1FE892-D729-4C10-915D-EC7D510C04A2}|projet1er\\projet1er.csproj|solutionrelative:projet1er\\migrations\\20250120215956_malak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1FE892-D729-4C10-915D-EC7D510C04A2}|projet1er\\projet1er.csproj|c:\\users\\malak\\source\\repos\\projet1er\\projet1er\\migrations\\20250120215831_malakdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1FE892-D729-4C10-915D-EC7D510C04A2}|projet1er\\projet1er.csproj|solutionrelative:projet1er\\migrations\\20250120215831_malakdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\malak\\source\\repos\\projet1er\\projet1er\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "projet1er\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\malak\\source\\repos\\projet1er\\projet1er\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "projet1er\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAOwCAAAAAAAAAAAqwAgDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T22:08:54.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\malak\\source\\repos\\projet1er\\projet1er\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "projet1er\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\malak\\source\\repos\\projet1er\\projet1er\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "projet1er\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T22:08:16.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\malak\\source\\repos\\projet1er\\projet1er\\Views\\Produit\\Delete.cshtml",
+              "RelativeDocumentMoniker": "projet1er\\Views\\Produit\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\malak\\source\\repos\\projet1er\\projet1er\\Views\\Produit\\Delete.cshtml",
+              "RelativeToolTip": "projet1er\\Views\\Produit\\Delete.cshtml",
+              "ViewState": "AgIAADoAAAAAAAAAAAAUwFcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T22:05:27.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\malak\\source\\repos\\projet1er\\projet1er\\Views\\Produit\\Edit.cshtml",
+              "RelativeDocumentMoniker": "projet1er\\Views\\Produit\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\malak\\source\\repos\\projet1er\\projet1er\\Views\\Produit\\Edit.cshtml",
+              "RelativeToolTip": "projet1er\\Views\\Produit\\Edit.cshtml",
+              "ViewState": "AgIAADoAAAAAAAAAAAAUwFcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T22:04:49.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\malak\\source\\repos\\projet1er\\projet1er\\Views\\Produit\\Create.cshtml",
+              "RelativeDocumentMoniker": "projet1er\\Views\\Produit\\Create.cshtml",
+              "ToolTip": "C:\\Users\\malak\\source\\repos\\projet1er\\projet1er\\Views\\Produit\\Create.cshtml",
+              "RelativeToolTip": "projet1er\\Views\\Produit\\Create.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAUwFYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T22:04:16.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\malak\\source\\repos\\projet1er\\projet1er\\Views\\Produit\\Details.cshtml",
+              "RelativeDocumentMoniker": "projet1er\\Views\\Produit\\Details.cshtml",
+              "ToolTip": "C:\\Users\\malak\\source\\repos\\projet1er\\projet1er\\Views\\Produit\\Details.cshtml",
+              "RelativeToolTip": "projet1er\\Views\\Produit\\Details.cshtml",
+              "ViewState": "AgIAADoAAAAAAAAAAAAUwFcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T22:03:22.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\malak\\source\\repos\\projet1er\\projet1er\\Views\\Produit\\Index.cshtml",
+              "RelativeDocumentMoniker": "projet1er\\Views\\Produit\\Index.cshtml",
+              "ToolTip": "C:\\Users\\malak\\source\\repos\\projet1er\\projet1er\\Views\\Produit\\Index.cshtml",
+              "RelativeToolTip": "projet1er\\Views\\Produit\\Index.cshtml",
+              "ViewState": "AgIAADsAAAAAAAAAAAAqwFcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T22:01:39.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProduitController.cs",
+              "DocumentMoniker": "C:\\Users\\malak\\source\\repos\\projet1er\\projet1er\\Controllers\\ProduitController.cs",
+              "RelativeDocumentMoniker": "projet1er\\Controllers\\ProduitController.cs",
+              "ToolTip": "C:\\Users\\malak\\source\\repos\\projet1er\\projet1er\\Controllers\\ProduitController.cs",
+              "RelativeToolTip": "projet1er\\Controllers\\ProduitController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAwwE4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:00:48.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\malak\\source\\repos\\projet1er\\projet1er\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "projet1er\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\malak\\source\\repos\\projet1er\\projet1er\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "projet1er\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:00:11.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250120215956_malak.cs",
+              "DocumentMoniker": "C:\\Users\\malak\\source\\repos\\projet1er\\projet1er\\Migrations\\20250120215956_malak.cs",
+              "RelativeDocumentMoniker": "projet1er\\Migrations\\20250120215956_malak.cs",
+              "ToolTip": "C:\\Users\\malak\\source\\repos\\projet1er\\projet1er\\Migrations\\20250120215956_malak.cs",
+              "RelativeToolTip": "projet1er\\Migrations\\20250120215956_malak.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T21:59:56.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250120215831_malakdata.cs",
+              "DocumentMoniker": "C:\\Users\\malak\\source\\repos\\projet1er\\projet1er\\Migrations\\20250120215831_malakdata.cs",
+              "RelativeDocumentMoniker": "projet1er\\Migrations\\20250120215831_malakdata.cs",
+              "ToolTip": "C:\\Users\\malak\\source\\repos\\projet1er\\projet1er\\Migrations\\20250120215831_malakdata.cs",
+              "RelativeToolTip": "projet1er\\Migrations\\20250120215831_malakdata.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T21:58:31.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\malak\\source\\repos\\projet1er\\projet1er\\Program.cs",
+              "RelativeDocumentMoniker": "projet1er\\Program.cs",
+              "ToolTip": "C:\\Users\\malak\\source\\repos\\projet1er\\projet1er\\Program.cs",
+              "RelativeToolTip": "projet1er\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T21:57:33.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\malak\\source\\repos\\projet1er\\projet1er\\appsettings.json",
+              "RelativeDocumentMoniker": "projet1er\\appsettings.json",
+              "ToolTip": "C:\\Users\\malak\\source\\repos\\projet1er\\projet1er\\appsettings.json",
+              "RelativeToolTip": "projet1er\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-20T21:57:07.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataBaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\malak\\source\\repos\\projet1er\\projet1er\\Models\\DataBaseContext.cs",
+              "RelativeDocumentMoniker": "projet1er\\Models\\DataBaseContext.cs",
+              "ToolTip": "C:\\Users\\malak\\source\\repos\\projet1er\\projet1er\\Models\\DataBaseContext.cs",
+              "RelativeToolTip": "projet1er\\Models\\DataBaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T21:56:14.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Produit.cs",
+              "DocumentMoniker": "C:\\Users\\malak\\source\\repos\\projet1er\\projet1er\\Models\\Produit.cs",
+              "RelativeDocumentMoniker": "projet1er\\Models\\Produit.cs",
+              "ToolTip": "C:\\Users\\malak\\source\\repos\\projet1er\\projet1er\\Models\\Produit.cs",
+              "RelativeToolTip": "projet1er\\Models\\Produit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T21:53:47.328Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

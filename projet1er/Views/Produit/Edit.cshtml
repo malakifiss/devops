@@ -1,0 +1,131 @@
+﻿@model controle.Models.Produit
+
+@{
+    ViewData["Title"] = "Edit";
+}
+<style>
+        body {
+        font-family: 'Poppins', sans-serif;
+        background-color: #fffafc;
+        color: #333;
+        margin: 0;
+        padding: 20px;
+    }
+
+    h1 {
+        font-family: 'Playfair Display', serif;
+        color: #d16a8c;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    a {
+        color: #d16a8c;
+        text-decoration: none;
+        font-weight: 500;
+        transition: color 0.3s ease;
+    }
+
+    a:hover {
+        color: #b45471;
+    }
+
+    .table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 20px;
+        background-color: #fff;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        border-radius: 8px;
+        overflow: hidden;
+    }
+
+    .table th,
+    .table td {
+        padding: 12px 15px;
+        text-align: left;
+    }
+
+    .table th {
+        background-color: #f8e6ed;
+        color: #333;
+        font-weight: bold;
+        text-transform: uppercase;
+        font-size: 0.9rem;
+    }
+
+    .table td {
+        border-bottom: 1px solid #f0dce4;
+    }
+
+    .table tr:hover {
+        background-color: #f9d6e3;
+        color: #333;
+    }
+
+    button, .btn {
+        padding: 8px 16px;
+        background-color: #d16a8c;
+        color: #fff;
+        border: none;
+        border-radius: 20px;
+        font-size: 0.9rem;
+        font-weight: bold;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+    button:hover, .btn:hover {
+        background-color: #b45471;
+    }
+
+    p {
+        text-align: center;
+        margin-bottom: 20px;
+        font-size: 1rem;
+    }
+
+</style>
+<h1>Edit</h1>
+
+<h4>Produit</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="Nom" class="control-label"></label>
+                <input asp-for="Nom" class="form-control" />
+                <span asp-validation-for="Nom" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="marque" class="control-label"></label>
+                <input asp-for="marque" class="form-control" />
+                <span asp-validation-for="marque" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="specialite" class="control-label"></label>
+                <input asp-for="specialite" class="form-control" />
+                <span asp-validation-for="specialite" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="type" class="control-label"></label>
+                <input asp-for="type" class="form-control" />
+                <span asp-validation-for="type" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
